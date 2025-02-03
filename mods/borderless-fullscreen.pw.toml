@@ -1,0 +1,13 @@
+name = "Borderless Fullscreen"
+filename = "BorderlessFullscreen-v2.2.1-mc1.21.2.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/UIexcMP1/versions/jomgFSTN/BorderlessFullscreen-v2.2.1-mc1.21.2.jar"
+hash-format = "sha512"
+hash = "c8128ef944ac795ad80ad73464f3facacf7202b8e473ac5c7c66cb25e87d9521b3d1d80a371212000b5d2939c6c59f55bcf939fe253afadfea14535647cf009c"
+
+[update]
+[update.modrinth]
+mod-id = "UIexcMP1"
+version = "jomgFSTN"

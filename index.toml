@@ -1,0 +1,146 @@
+hash-format = "sha256"
+
+[[files]]
+file = "mods/better-stats.pw.toml"
+hash = "7d73e88045e39585ed44133072365404a37229e66f3f0e7995b6e722f22894f3"
+metafile = true
+
+[[files]]
+file = "mods/betterf3.pw.toml"
+hash = "cbc0973dadd8e4a191ce8e819f212bcfb58708885b4a46a9de7afa29e71aadad"
+metafile = true
+
+[[files]]
+file = "mods/borderless-fullscreen.pw.toml"
+hash = "25911adc757de9612015bdd68c636ab857924638232690f684e13f0f55fa6b26"
+metafile = true
+
+[[files]]
+file = "mods/cinderscapes.pw.toml"
+hash = "3702c10dec44f9239031fe6dd728a9ee000f9c48cdb3e4d56959a787e2bd0e45"
+metafile = true
+
+[[files]]
+file = "mods/cloth-config.pw.toml"
+hash = "df15648dd4d4e27dd0c45ab4e78277c45886b77a698b129f4ce2d2bc337f7044"
+metafile = true
+
+[[files]]
+file = "mods/continuity.pw.toml"
+hash = "7986f751d84536043edd1e67178554f6d4c3f01409feae6c151afa7854db5fa2"
+metafile = true
+
+[[files]]
+file = "mods/dynamic-fps.pw.toml"
+hash = "ef5594aca1039c06c502f9d3f4a709195b727abb3b2893652dfe38d983ff87c2"
+metafile = true
+
+[[files]]
+file = "mods/fabric-api.pw.toml"
+hash = "dd4c3c3ee97fa946926784db25da0b5a9984c9959681f412d6b402cc5bdfc83e"
+metafile = true
+
+[[files]]
+file = "mods/fabric-language-kotlin.pw.toml"
+hash = "bb9a29a48b27e7abc0799d4393240ae2cdcf7d64341c9a63347769173f8bda2e"
+metafile = true
+
+[[files]]
+file = "mods/ferrite-core.pw.toml"
+hash = "1ef554f7a8d5f7ed4bc21316e034eeef3430dc306012c0a706bd4c3e4ac253aa"
+metafile = true
+
+[[files]]
+file = "mods/frozenlib.pw.toml"
+hash = "225c4865d74e4816f4320ac223fe8ceb13157ead6729a3f0dd06e6b88d4e715b"
+metafile = true
+
+[[files]]
+file = "mods/iris.pw.toml"
+hash = "82e7a1244febc6b4699e17bcee523567efc9c8c005d67057f9c4c40e7fba2a5a"
+metafile = true
+
+[[files]]
+file = "mods/lithium.pw.toml"
+hash = "f4070441d1f1bdeb3e6a594b5ba1c3f314b8f13815a67619cb38621c0f6a1fec"
+metafile = true
+
+[[files]]
+file = "mods/midnightlib.pw.toml"
+hash = "ce318cf843b034ce8b829cfd8c0c2eb0431283f5b8fb4c38ecf67e79cf5b44c4"
+metafile = true
+
+[[files]]
+file = "mods/modernfix.pw.toml"
+hash = "189ffd9cebd2dd46397826288ab8946429bdd47e1d43e0000159ebbf34757c25"
+metafile = true
+
+[[files]]
+file = "mods/modmenu.pw.toml"
+hash = "57d85950ff52812e642cc62cdb703e1397b5c635e8f159216963b29b0225b2b2"
+metafile = true
+
+[[files]]
+file = "mods/moreculling.pw.toml"
+hash = "190da82bace64fdc2a741dd665568ad65d0c82b38e71e219edd3af2c76a1db3b"
+metafile = true
+
+[[files]]
+file = "mods/placeholder-api.pw.toml"
+hash = "6b2abdc14fca0b9b42b5678e7c65af8b93d5032f0e4b0d2fbd93295903489d50"
+metafile = true
+
+[[files]]
+file = "mods/reeses-sodium-options.pw.toml"
+hash = "55a727cabdd9d6e84fb0232b49d0dfa207751002e7f1f63b959baa35e2f29868"
+metafile = true
+
+[[files]]
+file = "mods/repurposed-structures-fabric.pw.toml"
+hash = "b1087da79e1a0b506088d0cc7d081919f2808ee85c6de9171d91e04c0db90f30"
+metafile = true
+
+[[files]]
+file = "mods/sodium.pw.toml"
+hash = "e0e1e55bfd57838d03dbcd49d3e056352db0284b15e45210205c5d85f83b76d4"
+metafile = true
+
+[[files]]
+file = "mods/tcdcommons.pw.toml"
+hash = "8559edeaf210c9a83de3dc51b6041ce3ad27368ffb6a81fd6f39d7a9334198f2"
+metafile = true
+
+[[files]]
+file = "mods/tectonic.pw.toml"
+hash = "63c4895923bd499ecb452628b0aa9e491a29e1f0f483b482958362b52961e203"
+metafile = true
+
+[[files]]
+file = "mods/terrestria.pw.toml"
+hash = "0917ac70508be7b1ae892e43d873145d40503ca100ddd4e2de693923609904dc"
+metafile = true
+
+[[files]]
+file = "mods/traverse.pw.toml"
+hash = "0341fabae93a7ad065b5817b2000d06cf4adc07b396f7414414abfa904ccf92c"
+metafile = true
+
+[[files]]
+file = "mods/wilder-wild.pw.toml"
+hash = "4c80972b4e340079f8d7efb9d3522464148c8adc39c617e0e76dc304c0f44fd9"
+metafile = true
+
+[[files]]
+file = "mods/yacl.pw.toml"
+hash = "4b7c266cf6c560aec780394f515cbe880c72fb07286f60694823fde3b926f184"
+metafile = true
+
+[[files]]
+file = "mods/zoomify.pw.toml"
+hash = "c9a5dca078d983e94d629ca4bf402fff78e364e5b5365ff43373d77eec268432"
+metafile = true
+
+[[files]]
+file = "shaderpacks/makeup-ultra-fast-shaders.pw.toml"
+hash = "e21049e1505b849d2996e1390a6e91e3030a44277b873242cadfc074b576662d"
+metafile = true

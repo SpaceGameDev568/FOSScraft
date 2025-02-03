@@ -1,0 +1,13 @@
+name = "Traverse"
+filename = "traverse-8.2.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/kXygSBVI/versions/ttx4fFY2/traverse-8.2.0.jar"
+hash-format = "sha512"
+hash = "13c602a9e53dccbf92672778eea50481955a9c17c5ecc04d4a5e29e806f349ba39a800946c68da32dfc4b2f58c6e6146e9a96900c7b1890eafc69d5d05231d2b"
+
+[update]
+[update.modrinth]
+mod-id = "kXygSBVI"
+version = "ttx4fFY2"
