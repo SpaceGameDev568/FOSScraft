@@ -1,0 +1,13 @@
+name = "Comic Shaders"
+filename = "Comic Shaders v1.1.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/NuMAacDC/versions/omqmRjt6/Comic%20Shaders%20v1.1.zip"
+hash-format = "sha512"
+hash = "1e3b4cbce3ac1217aad9225bc62dceacb6c1327f0aa0f6ebd335147052217d87e88561a77d82bfa6e432a220336f425a397dc1e1a3b2b4ee5806f8364eda9854"
+
+[update]
+[update.modrinth]
+mod-id = "NuMAacDC"
+version = "omqmRjt6"

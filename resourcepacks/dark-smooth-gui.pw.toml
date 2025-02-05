@@ -1,0 +1,13 @@
+name = "Dark Smooth GUI"
+filename = "Dark Smooth GUI 0.6.1+1.20.5-1.21.x.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/3BPM3cU5/versions/Di0QfY1U/Dark%20Smooth%20GUI%200.6.1%2B1.20.5-1.21.x.zip"
+hash-format = "sha512"
+hash = "1ed81917580879ba59f5ee408fb23e7ba8236a85f14add29f7480c7949ad7aee09d175d8341eb6af8646617a6bcadd8f102bec63fac888961d4e818a838630b2"
+
+[update]
+[update.modrinth]
+mod-id = "3BPM3cU5"
+version = "Di0QfY1U"
